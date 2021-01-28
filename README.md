@@ -1,6 +1,11 @@
 # arduino_esp8266_notification_notify
 The LED flusher as notification for smartphone notifications
 
+## working video
+[<img src="https://img.youtube.com/vi/MNYUF8KIcGc/0.jpg" width="240px">](https://www.youtube.com/watch?v=MNYUF8KIcGc)
+
+https://www.youtube.com/watch?v=MNYUF8KIcGc
+
 ## overview
     +-----------------+       +----------------+     +--------------------+
     | arduino/esp8266 |       | PHP/web server |     | android/smartphone |
